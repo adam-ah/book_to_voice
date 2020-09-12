@@ -1,6 +1,10 @@
 # Token used by Google
 *.json 
 
+# Voice and sources
+*.txt
+*.mp3
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
