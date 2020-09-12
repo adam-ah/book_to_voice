@@ -1,3 +1,6 @@
+# Token used by Google
+*.json 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
